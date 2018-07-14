@@ -1,0 +1,23 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambdaYAML/workflow.git"
+  },
+  "author": "Coyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LambdaYAML/workflow/issues"
+  },
+  "homepage": "https://github.com/LambdaYAML/workflow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
